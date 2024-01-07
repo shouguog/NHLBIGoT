@@ -1,2 +1,4 @@
 # NHLBIGoT
-Genotyping of Transcript at single cell level
+Genotyping of Transcript at single cell level.
+
+
